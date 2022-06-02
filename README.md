@@ -4,7 +4,7 @@ The goal of Project one was to gain experience accessing your operating system's
 We also gained experience writing and executing non-web server Node.js JavaScript code
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-# We practiced the follow skills within this project:
+## We practiced the follow skills within this project:
 
 - CLI commands and 
 - CLI features and usage
