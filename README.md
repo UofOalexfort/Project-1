@@ -1,2 +1,6 @@
-# Project-1-
-Gain experience accessing your operating system's command line interface (CLI) Gain experience working with CLI commands Gain experience working with Visual Studio Code (VSCode) Gain experience writing and executing non-web server Node.js JavaScript code
+# Project-1
+
+The goal of Project one was to gain experience accessing your operating system's command line interface and gain experience working with CLI commands.
+We also gained experience writing and executing non-web server Node.js JavaScript code
+
+[GitHub Link](https://github.com/UofOalexfort/Project-1-)
