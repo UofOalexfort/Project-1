@@ -8,7 +8,7 @@ We also gained experience writing and executing non-web server Node.js JavaScrip
 
 - CLI commands and 
 - CLI features and usage
-- Writing JS code
+- writing JS code
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
